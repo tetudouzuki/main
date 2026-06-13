@@ -1,1 +1,19 @@
-# tetsudouzuki
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ヒトモドキ開発室</title>
+</head>
+<body>
+    <h1>ヒトモドキ開発室</h1>
+
+    <p>ゲーム開発日誌です。</p>
+
+    <h2>2026/06/07</h2>
+
+    <p>
+        ノンフィールドRPG開発開始。
+    </p>
+    <mp3>\Come Join the Jubilee verB.mp3<mp3>
+
+</body>
+</html>
